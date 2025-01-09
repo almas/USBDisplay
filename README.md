@@ -1,5 +1,8 @@
 #
 
+## Be careful!! This can includes the virus! I just temporarily forked it for my private use.
+Don't use it if you don't know what you are doing. It is dangerous!
+
 [中文](https://github.com/MindShow/USBDisplay/blob/main/说明.md) | [English](https://github.com/MindShow/USBDisplay/blob/main/README.md)
 
 ## Install Guide
